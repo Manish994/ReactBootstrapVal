@@ -28,6 +28,19 @@
   color: #61dafb;
 }
 
+
+.red{
+  display: block;
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: .875rem;
+  color: red;
+}
+
+.red-border{
+  border: 1px solid red;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
